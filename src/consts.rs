@@ -4,5 +4,5 @@ pub enum GENERO {
 }
 
 pub enum ESTADO {
-    AGUASCALIENTES = "AS".to_string(),
+    AGUASCALIENTES,
 }
